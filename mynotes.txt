@@ -1,2 +1,6 @@
 This is may locale txt file
+
 Local code
+
+Romote code
+
